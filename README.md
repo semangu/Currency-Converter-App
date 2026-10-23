@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e941e22-a227-486e-841e-7236eb9333c9"
+       width="300"
+       alt="iPhone 16e Simulator Screenshot" />
+</p>
+
 # Currency Converter
 
 Basit bir Flutter uygulaması olan bu proje, kullanıcıdan alınan tutarı sabit bir kur üzerinden USD'den TRY'ye dönüştürür. Uygulama tek ekranlıdır, Material tasarım kullanır ve dönüşüm mantığı doğrudan Flutter state yönetimi ile yürütülür.
